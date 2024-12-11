@@ -9,6 +9,6 @@ Supported audio formats include：FLAC, WAV, M4A, MP3, DSD, DFF, DSF, OGG, AIFF,
 
 Download it on App Store:
 
-[Click Here👉Music Tag Editor]([https://apps.apple.com/app/id6738013677](https://apps.apple.com/app/id6738013677))
+[Click Here👉Music Tag Editor](https://apps.apple.com/app/id6738013677)
 
 ![1](https://github.com/user-attachments/assets/f89ee91d-7123-415b-8f82-817b1f13f2af)
