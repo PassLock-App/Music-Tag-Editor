@@ -47,9 +47,11 @@ Music tag editor for everyone, wide range of music formats, supports parsing and
 
 [App Store：Music Tag Editor](https://apps.apple.com/app/id6738013677)
 
-![1](https://github.com/user-attachments/assets/f89ee91d-7123-415b-8f82-817b1f13f2af)
+![screenshot1](https://github.com/user-attachments/assets/f89ee91d-7123-415b-8f82-817b1f13f2af)
+![screenshot2](https://github.com/user-attachments/assets/e5427bff-1968-4f14-943c-ef5255389447)
+![screenshot3](https://github.com/user-attachments/assets/72e57195-8cb8-41ba-a15a-a800c595bcca)
 
-<img width="1280" alt="2" src="https://github.com/user-attachments/assets/23d8d514-1066-41e1-98ea-2d4d72805187">
+
 
 ## Credits
 
