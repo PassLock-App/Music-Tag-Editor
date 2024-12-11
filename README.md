@@ -4,6 +4,28 @@ Supported audio formats include：FLAC, WAV, M4A, MP3, DSD, DFF, DSF, OGG, AIFF,
 
 **Music Tag Editor** Music tag editor for everyone, wide range of music formats, supports parsing and editing tags such as covers, lyrics, labels, artists, albums, eras, genres, notes, etc. within music files.
 
+## Supported Music Formats
+|  Formats  | Status |
+|-----------|----------|
+|    MPEG   |    ✅    |
+|   FLAC    |    ✅    |
+|    WAV    |    ✅    |
+|    APE    |    ✅    |
+|    ASF    |    ✅    |
+|   DSDIFF  |    ✅    |
+|    DSF    |    ✅    |
+|    IT     |    ✅    |
+|    MOD    |    ✅    |
+|    AAC    |    ✅    |
+|   ALAC    |    ✅    |
+|    AAC    |    ✅    |
+|    OGG    |    ✅    |
+|   RIFF    |    ✅    |
+|    S3M    |    ✅    |
+|    XM     |    ✅    |
+| TrueAudio |    ✅    |
+
+
 ## Supported Editable Tags
 
 | Music Tag | Editable |
