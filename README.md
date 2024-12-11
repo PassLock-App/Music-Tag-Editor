@@ -49,6 +49,8 @@ Music tag editor for everyone, wide range of music formats, supports parsing and
 
 ![1](https://github.com/user-attachments/assets/f89ee91d-7123-415b-8f82-817b1f13f2af)
 
+<img width="1280" alt="2" src="https://github.com/user-attachments/assets/23d8d514-1066-41e1-98ea-2d4d72805187">
+
 ## Credits
 
 Source code is based on [TabLib](https://taglib.org/), thanks for the amazing work!
